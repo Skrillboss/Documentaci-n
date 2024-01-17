@@ -52,4 +52,4 @@ public class Aprendiendo {
 
 ## Guardar
 
-Esta documentacion se guardara en mi perfil personal de [Git-Hub](https://github.com/Skrillboss/Documentaci-n/edit/main/README.md) para poder tenerlo guardado en la nube.
+Esta documentacion se guardara en mi perfil personal de [Git-Hub](https://github.com/Skrillboss/Documentaci-n) para poder tenerlo guardado en la nube.
