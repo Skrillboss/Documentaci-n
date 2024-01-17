@@ -10,7 +10,7 @@ Aprenderemos a usar cada uno de los caracteres especiales para poder generar una
 ## Índice
 
 1. [Caracteres](#caracteres)
-2. [Instalación](#práctica)
+2. [Práctica](#práctica)
 3. [Código](#código)
 4. [Por hacer](#porhacer)
 5. [Guardar](#guardar)
